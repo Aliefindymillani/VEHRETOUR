@@ -53,6 +53,7 @@ char *readFileText(char *fileName)
 char FILE_ANTRIAN[] = "antrian.txt";
 char FILE_TERVERIFIKASI[] = "verifikasi.txt";
 char enter[] = "\n";
+
 struct node
 { // BUAT KESELURUHAN
 	int data, tanggal, nomor;
